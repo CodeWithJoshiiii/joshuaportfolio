@@ -1,0 +1,169 @@
+[
+  {
+    "id": "css-ncii",
+    "title": "Computer Systems Servicing NC II",
+    "issuer": "National Certificate II",
+    "date": "Date not provided",
+    "category": "national",
+    "image": null,
+    "file": null,
+    "description": "Technical-vocational credential listed at the portfolio owner's request. Certificate copy not yet supplied.",
+    "featured": true
+  },
+  {
+    "id": "dict-data-privacy",
+    "title": "Introduction to Data Privacy (8 hours)",
+    "issuer": "Department of Information and Communications Technology (DICT) · Digital Workforce Hub",
+    "date": "Date not provided",
+    "category": "dict",
+    "image": "dict-introduction-to-data-privacy-preview.jpg",
+    "file": "dict-introduction-to-data-privacy.png",
+    "description": "Certificate of Completion for the 8-hour Introduction to Data Privacy training through the DICT Digital Workforce Hub.",
+    "featured": true
+  },
+  {
+    "id": "agentic-ai",
+    "title": "Agentic AI",
+    "issuer": "Northeastern College · 10th IT Week",
+    "date": "Aug 27, 2026",
+    "category": "seminars",
+    "image": "nc-agentic-ai.jpg",
+    "file": "nc-agentic-ai.jpg",
+    "description": "Seminar and workshop on agentic AI during the 10th IT Week.",
+    "featured": true
+  },
+  {
+    "id": "programming-fundamentals",
+    "title": "Programming Fundamentals",
+    "issuer": "Northeastern College · 10th IT Week",
+    "date": "Aug 27, 2026",
+    "category": "seminars",
+    "image": "nc-programming-fundamentals.jpg",
+    "file": "nc-programming-fundamentals.jpg",
+    "description": "Seminar and workshop on programming fundamentals.",
+    "featured": true
+  },
+  {
+    "id": "iot-capstone",
+    "title": "Integrating IoT in Capstone Project",
+    "issuer": "Northeastern College · 10th IT Week",
+    "date": "Aug 27, 2026",
+    "category": "seminars",
+    "image": "nc-iot-capstone.jpg",
+    "file": "nc-iot-capstone.jpg",
+    "description": "Seminar and workshop exploring IoT integration in capstone projects."
+  },
+  {
+    "id": "video-editing",
+    "title": "Video Editing Tips & Tricks",
+    "issuer": "Northeastern College · 10th IT Week",
+    "date": "Aug 27, 2026",
+    "category": "seminars",
+    "image": "nc-video-editing.jpg",
+    "file": "nc-video-editing.jpg",
+    "description": "Seminar and workshop on practical video editing techniques."
+  },
+  {
+    "id": "modern-it",
+    "title": "Modern IT Management and Development",
+    "issuer": "Ethel Programming Computer Programming Services",
+    "date": "Jul 24, 2026",
+    "category": "seminars",
+    "image": "ethel-it-management.jpg",
+    "file": "ethel-it-management.jpg",
+    "description": "Participated in “Innovate Manage Transform: Modern IT Management and Development.”"
+  },
+  {
+    "id": "ai-productivity",
+    "title": "AI & Digital Tools for Office Productivity",
+    "issuer": "Adal Pilipinas / CYLC",
+    "date": "Jul 18, 2026",
+    "category": "seminars",
+    "image": "adal-ai-digital-tools.jpg",
+    "file": "adal-ai-digital-tools.jpg",
+    "description": "Seminar on leveraging AI and digital tools for administrative writing, documentation, and office productivity."
+  },
+  {
+    "id": "cisco-hardware",
+    "title": "Computer Hardware Basics",
+    "issuer": "Cisco Networking Academy",
+    "date": "Oct 2, 2026",
+    "category": "cisco",
+    "image": "cisco-hardware-basics.png",
+    "file": "cisco-hardware-basics.pdf",
+    "description": "Completed the Computer Hardware Basics course.",
+    "featured": true
+  },
+  {
+    "id": "cisco-packet",
+    "title": "Getting Started with Cisco Packet Tracer",
+    "issuer": "Cisco Networking Academy",
+    "date": "Sep 26, 2026",
+    "category": "cisco",
+    "image": "cisco-packet-tracer.png",
+    "file": "cisco-packet-tracer.pdf",
+    "description": "Completed the Getting Started with Cisco Packet Tracer course."
+  },
+  {
+    "id": "ms-first-code",
+    "title": "Write Your First C# Code",
+    "issuer": "Microsoft",
+    "date": "Oct 2, 2026",
+    "category": "microsoft",
+    "image": "ms-first-csharp-code.png",
+    "file": "ms-first-csharp-code.png",
+    "description": "Completed a foundational activity introducing C# syntax."
+  },
+  {
+    "id": "ms-variables",
+    "title": "Store Data with Variables in C#",
+    "issuer": "Microsoft",
+    "date": "Oct 2, 2026",
+    "category": "microsoft",
+    "image": "ms-csharp-variables.png",
+    "file": "ms-csharp-variables.png",
+    "description": "Completed a learning activity about storing data with variables."
+  },
+  {
+    "id": "ms-strings",
+    "title": "Perform Basic String Formatting in C#",
+    "issuer": "Microsoft",
+    "date": "Oct 2, 2026",
+    "category": "microsoft",
+    "image": "ms-csharp-strings.png",
+    "file": "ms-csharp-strings.png",
+    "description": "Completed a learning activity involving basic C# string formatting."
+  },
+  {
+    "id": "ms-numbers",
+    "title": "Perform Basic Operations on Numbers in C#",
+    "issuer": "Microsoft",
+    "date": "Oct 2, 2026",
+    "category": "microsoft",
+    "image": "ms-csharp-numbers.png",
+    "file": "ms-csharp-numbers.png",
+    "description": "Completed a learning activity involving basic numeric operations in C#."
+  },
+  {
+    "id": "ms-gpa",
+    "title": "Guided Project: Calculate Final GPA",
+    "issuer": "Microsoft",
+    "date": "Oct 2, 2026",
+    "category": "microsoft",
+    "image": "ms-final-gpa.png",
+    "file": "ms-final-gpa.png",
+    "description": "Completed a guided activity for calculating a final GPA.",
+    "featured": true
+  },
+  {
+    "id": "ms-grades",
+    "title": "Guided Project: Calculate & Print Student Grades",
+    "issuer": "Microsoft",
+    "date": "Oct 2, 2026",
+    "category": "microsoft",
+    "image": "ms-student-grades.png",
+    "file": "ms-student-grades.png",
+    "description": "Completed a guided exercise for calculating and printing student grades.",
+    "featured": true
+  }
+]
